@@ -5,7 +5,7 @@ title: Taehyung Resume
 email: opencv@kakao.com
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
 name: Taehyung Kim
-job: AI researcher & development
+job: AI researcher & development <br> "If you have more questions about me, please send me an email and I will send you my resume"
 location: Seoul, Republic of Korea
 languages: C++, C#, python
 github_username:  kimtaehyeong
